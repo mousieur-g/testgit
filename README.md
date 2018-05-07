@@ -1,1 +1,1 @@
-# Git ½Ì³Ì
+# Git Course
